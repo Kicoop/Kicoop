@@ -23,7 +23,7 @@
  - 1st Year Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
   
 ---
-  ### Languages I am Studying
+  ### Languages Currently Studying
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   </div>
