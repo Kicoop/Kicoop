@@ -29,5 +29,5 @@
   </div>
 
 <div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kicoop" width="400"/> <img src="http://github-readme-streak-stats.herokuapp.com?user=Kicoop&theme=leafy&hide_border=true" width="430"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Kicoop&theme=leafy&hide_border=true" width="430"/>
   </div>
