@@ -1,11 +1,12 @@
 <div align="center">
-<img src="https://media.tenor.com/od_N_-momnMAAAAd/typing-nerd.gif" alt="Gif">
+<img src="https://media.tenor.com/od_N_-momnMAAAAd/typing-nerd.gif" alt="Gif" width="500">
   </div>
 <div id = "stalk" align="center">
 <img src="https://komarev.com/ghpvc/?username=Kicoop&style=flat-square&color=blue" alt="" width=""/>
   </div>
-  
----
+  <div align="center">
+<h1>Hey! Im Kiko!</h1>
+  <p style="bold;">Follow My Socials!</p>
   <div id="badges" align="center">
   <a href="https://twitter.com/kikoin4k">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -21,9 +22,9 @@
  
   ### About Me
  - :round_pushpin: Makati, Philippines
+ - First Year Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
  - Bachelor of Science in Information Technology
  - Specialization in Mobile and Web Application
- - 1st Year Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
   
 ---
   ### Languages Currently Studying
