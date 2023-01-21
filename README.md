@@ -6,7 +6,7 @@
   </div>
   <div align="center">
 <h1>Hey! Im Kiko!</h1>
-  <p style="bold;">Follow My Socials!</p>
+  <p style="bold;">My Socials!</p>
   <div id="badges" align="center">
   <a href="https://twitter.com/kikoin4k">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
