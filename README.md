@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/od_N_-momnMAAAAd/typing-nerd.gif" alt="Gif" width="500">
+<img src="https://cdn3.emoji.gg/emojis/6276-spinning-cat.gif" alt="Gif" width="500">
   </div>
 <div id = "stalk" align="center">
 <img src="https://komarev.com/ghpvc/?username=Kicoop&style=flat-square&color=blue" alt="" width=""/>
