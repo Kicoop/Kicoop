@@ -19,7 +19,7 @@
  
   ### About Me
  - :round_pushpin: Taguig, Philippines
- - Former Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
+ - Former Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NU_shield.svg/1200px-NU_shield.svg.png" width="15">
  - Bachelor of Science in Information Technology
  - Specialization in Mobile and Web Application
   
