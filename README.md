@@ -18,8 +18,8 @@
   </div>
  
   ### About Me
- - :round_pushpin: Makati, Philippines
- - First Year Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
+ - :round_pushpin: Taguig, Philippines
+ - Former Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
  - Bachelor of Science in Information Technology
  - Specialization in Mobile and Web Application
   
