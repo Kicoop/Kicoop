@@ -11,7 +11,7 @@
   <a href="https://twitter.com/kikoin4k">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://instagram.com/kikomybeloved">
+  <a href="https://www.instagram.com/omfg.kyxz">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/kiko24k">
